@@ -82,8 +82,8 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2012 – now`
+__Entertainment Management Services Pty. Ltd.__, Melbourne
 
 - Warden
 - Minted coins
