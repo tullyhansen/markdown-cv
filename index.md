@@ -1,19 +1,36 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tully Hansen's CV
 ---
-# Isaac Newton
+# Tully Hansen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:tully@tullyhansen.com">tully@tullyhansen.com</a>
+| <a href="http://tullyhansen.com">tullyhansen.com</a>
 </div>
 
 
 ## Currently
 
 Standing on the shoulders of giants
+
+## Employment
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
 
 ### Specialized in
 
@@ -27,19 +44,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 – 2012`
+__Bachelor of Creative Writing, RMIT University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2013 – 2014`
+__Bachelor of Media and Communication (Honours), RMIT University__
 
 
 ## Awards
