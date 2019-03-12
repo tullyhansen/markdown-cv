@@ -3,7 +3,7 @@ layout: cv
 title: Tully Hansen's CV
 ---
 # Tully Hansen
-Physicist, Mathematician, Cambridge professor.
+Working with words, computers, and people.
 
 <div id="webaddress">
 <a href="mailto:tully@tullyhansen.com">tully@tullyhansen.com</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for a remote customer support
 
 ## Employment
 
@@ -95,6 +95,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2019 -->
 
 
